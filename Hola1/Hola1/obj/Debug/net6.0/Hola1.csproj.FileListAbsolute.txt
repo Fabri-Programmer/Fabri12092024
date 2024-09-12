@@ -1,0 +1,14 @@
+C:\Users\UPN\source\repos\Hola1\Hola1\bin\Debug\net6.0\Hola1.exe
+C:\Users\UPN\source\repos\Hola1\Hola1\bin\Debug\net6.0\Hola1.deps.json
+C:\Users\UPN\source\repos\Hola1\Hola1\bin\Debug\net6.0\Hola1.runtimeconfig.json
+C:\Users\UPN\source\repos\Hola1\Hola1\bin\Debug\net6.0\Hola1.dll
+C:\Users\UPN\source\repos\Hola1\Hola1\bin\Debug\net6.0\Hola1.pdb
+C:\Users\UPN\source\repos\Hola1\Hola1\obj\Debug\net6.0\Hola1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UPN\source\repos\Hola1\Hola1\obj\Debug\net6.0\Hola1.AssemblyInfoInputs.cache
+C:\Users\UPN\source\repos\Hola1\Hola1\obj\Debug\net6.0\Hola1.AssemblyInfo.cs
+C:\Users\UPN\source\repos\Hola1\Hola1\obj\Debug\net6.0\Hola1.csproj.CoreCompileInputs.cache
+C:\Users\UPN\source\repos\Hola1\Hola1\obj\Debug\net6.0\Hola1.dll
+C:\Users\UPN\source\repos\Hola1\Hola1\obj\Debug\net6.0\refint\Hola1.dll
+C:\Users\UPN\source\repos\Hola1\Hola1\obj\Debug\net6.0\Hola1.pdb
+C:\Users\UPN\source\repos\Hola1\Hola1\obj\Debug\net6.0\Hola1.genruntimeconfig.cache
+C:\Users\UPN\source\repos\Hola1\Hola1\obj\Debug\net6.0\ref\Hola1.dll
