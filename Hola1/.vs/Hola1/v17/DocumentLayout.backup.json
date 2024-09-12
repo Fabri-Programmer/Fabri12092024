@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UPN\\source\\repos\\Hola1\\",
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Downloads\\Hola1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{221D4303-EBB7-4E3D-B626-2D060EEA54FF}|Hola1\\Hola1.csproj|c:\\users\\upn\\source\\repos\\hola1\\hola1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{221D4303-EBB7-4E3D-B626-2D060EEA54FF}|Hola1\\Hola1.csproj|c:\\users\\upn\\downloads\\hola1\\hola1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{221D4303-EBB7-4E3D-B626-2D060EEA54FF}|Hola1\\Hola1.csproj|solutionrelative:hola1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\source\\repos\\Hola1\\Hola1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\Hola1\\Hola1\\Program.cs",
               "RelativeDocumentMoniker": "Hola1\\Program.cs",
-              "ToolTip": "C:\\Users\\UPN\\source\\repos\\Hola1\\Hola1\\Program.cs",
-              "RelativeToolTip": "Hola1\\Program.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\UPN\\Downloads\\Hola1\\Hola1\\Program.cs*",
+              "RelativeToolTip": "Hola1\\Program.cs*",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-12T12:14:46.307Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
